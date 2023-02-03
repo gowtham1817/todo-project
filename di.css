@@ -1,0 +1,104 @@
+
+.dream 
+{
+    background-image: url(img/first.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:30rem;
+}
+
+.don 
+{
+    background-color: #ffe0bd;
+}
+
+
+ .we ul li:before {
+    content: '✓     ';
+  }
+
+.you ul li:before {
+    content: '✓     ';
+  }
+
+.you ul li 
+{
+    padding-top: 1rem;
+    
+}
+.tom 
+{
+    
+    width:100rem;
+    
+}
+
+.gow 
+{
+    padding: 4rem;
+}
+
+.tim 
+{
+    padding-top: 1rem;
+}
+
+.fog 
+{
+    height: 0.5rem;
+}
+
+.owl 
+{
+    width:92%;
+}
+
+.crow 
+{
+    width:71%;
+}
+
+.eagle 
+{
+    width:53%;
+}
+
+.ice ul li 
+{
+    padding-bottom:0.5rem;
+}
+
+.cream ul li 
+{
+    padding-bottom:0.5rem;
+}
+
+.fogg 
+{
+    width:100%;
+    height:100%;
+}
+
+.fred
+{
+    background-color: #d9d9d9;
+}
+
+.none 
+{
+    z-index: 10;
+    margin-right: -20rem;
+}
+
+.back 
+{
+    width:50rem;
+    height:22rem;
+    margin-top: 1.5rem;
+    background-image: url(img/second.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 10;
+    margin-right: -2rem;
+    border-radius: 0.6rem;
+}
